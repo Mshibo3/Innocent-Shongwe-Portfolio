@@ -1,7 +1,7 @@
 # Innocent Shongwe Personal Portfolio
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](image.jpg)
+![alt text](image1.jpg)
+![alt text](image2.jpg)
 
 This is the code for my personal website it was created in JavaScript, HTML, CSS!
 
