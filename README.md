@@ -1,7 +1,6 @@
 # Innocent Shongwe Personal Portfolio
-![alt text](image.jpg)
-![alt text](image1.jpg)
-![alt text](image2.jpg)
+![image](https://github.com/Mshibo3/Innocent-Shongwe-Portfolio/assets/84938070/11b7a83a-88c4-4b6b-ac57-bf53ab044aa3)
+
 
 This is the code for my personal website it was created in JavaScript, HTML, CSS!
 
