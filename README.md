@@ -15,7 +15,7 @@ I am more focused on backend engineering so I tried to keep it as simple as poss
 
 If you would like to contact me, please do so!
 
-https://linkedin.com/in/choechristopher
+https://www.linkedin.com/in/innocent-shongwe-b5a223236/
 
 ## Author
 Innocent Shongwe
